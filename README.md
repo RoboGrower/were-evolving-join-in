@@ -2,7 +2,7 @@
 ROBO GROWER IS EVLOLVING - JOIN IN
 
 
-Robo Grower is the first generation of a 4 wheel self-propelled robotic platform that drives and synchroizes the operation of a CNC Agricultural Controler.
+Robo Grower is devloping the first generation of a 4 wheel self-propelled robotic platform that drives and synchroizes the operation of a CNC Agricultural Controler.
 
 Aspects of our software come as as a friendly fork inspired by Farmbots current commitment to the exclusive use of tracks to move CNC Agricultural Controllers.   
 
